@@ -1,4 +1,4 @@
-### Hi there 👋
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkgojn&theme=warm)
 
 <!--
 **SeonghyeonKim/SeonghyeonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
