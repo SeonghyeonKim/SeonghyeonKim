@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seonghyeon_Kim&fontSize=40)
+
+<a href="https://github.com/SeonghyeonKim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SeonghyeonKim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SeonghyeonKim's github stats" /></a>
+<a href="https://github.com/SeonghyeonKim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeonghyeonKim&layout=compact&theme=nord&hide_border=true" /></a> 
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkgojn&theme=warm)
 
 <!--
