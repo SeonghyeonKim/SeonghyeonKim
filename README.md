@@ -40,12 +40,18 @@ Hello, I'm Seonghyeon Kim.
 
 <br>
 
+### 🔬 Github Stat
+
 <a href="https://github.com/SeonghyeonKim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SeonghyeonKim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SeonghyeonKim's github stats" /></a>
 <a href="https://github.com/SeonghyeonKim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeonghyeonKim&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <br>
 
+### 📈 BOJ Profile
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkgojn&theme=warm)
+
+<br>
 
 <!--
 **SeonghyeonKim/SeonghyeonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
