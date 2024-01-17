@@ -4,6 +4,13 @@ Hello, I'm Seonghyeon Kim.
 
 <br>
 
+### 🌟 Achievement
+- Bachelor’s Degree in Computer Science Engineering, Pusan National University (2018-2024)
+- Kakao Tech Campus (2023)
+- 2022 부산 코딩경진대회 금상
+- 2022 부산대학교 프로그래밍경진대회 은상
+
+<br>
 
 ### 🛠 Tech Stack
 
@@ -21,6 +28,13 @@ Hello, I'm Seonghyeon Kim.
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=black" />
 </p>
+
+<br>
+
+### 📫 Contact
+- 이메일: kkgojn@gmail.com
+- blog : https://blog.naver.com/kkgojn
+- Twitter : https://twitter.com/Kimseonghyeon51
 
 <br>
 
