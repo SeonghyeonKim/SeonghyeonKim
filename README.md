@@ -14,6 +14,7 @@ Hello, I'm Seonghyeon Kim.
 - 2023 부산대학교 캡스톤디자인 동상
 - 2024 제 2회 PNU Coding Challenge 대상(정보의생명공학대학장상)
 - PCCP Level 5 | 1000점 (2024.02)
+- 2024 SSAFY 12기 (2024.07 ~ )
 
 <br>
 
