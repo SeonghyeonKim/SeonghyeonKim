@@ -53,6 +53,7 @@ Hello, I'm Seonghyeon Kim.
 
 ### 📈 BOJ Profile
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkgojn)](https://solved.ac/kkgojn)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkgojn&theme=warm)
 
 <br>
