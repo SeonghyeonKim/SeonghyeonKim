@@ -5,8 +5,8 @@ Hello, I'm Seonghyeon Kim.
 <br>
 
 ### 🌟 Achievement
-- Bachelor’s Degree in Computer Science Engineering, Pusan National University (2018.03-2024.08)
-- Kakao Tech Campus (2023)
+- Bachelor’s Degree in Computer Science Engineering, Pusan National University (2018.03 ~ 2024.08)
+- Kakao Tech Campus (2023.04 ~ 2023.11)
 - 2022 부산 코딩경진대회 금상
 - 2022 부산대학교 프로그래밍경진대회 은상
 - 2022 알고리즘 먼데이 챌린지 참가
