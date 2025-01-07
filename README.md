@@ -5,16 +5,18 @@ Hello, I'm Seonghyeon Kim.
 <br>
 
 ### 🌟 Achievement
-- Bachelor’s Degree in Computer Science Engineering, Pusan National University (2018.03 ~ 2024.08)
-- Kakao Tech Campus (2023.04 ~ 2023.11)
-- 2022 부산 코딩경진대회 금상
-- 2022 부산대학교 프로그래밍경진대회 은상
-- 2022 알고리즘 먼데이 챌린지 참가
-- 2023 구름톤 챌린지 참가
-- 2023 부산대학교 캡스톤디자인 동상
-- 2024 제 2회 PNU Coding Challenge 대상(정보의생명공학대학장상)
-- PCCP Level 5 | 1000점 (2024.02)
+- 2024 플라네타리움 핵토버페스트 오픈소스 기여
 - 2024 SSAFY 12기 (2024.07 ~ )
+- PCCP Level 5 | 1000점 (2024.02)
+- 2024 제 2회 PNU Coding Challenge 대상(정보의생명공학대학장상)
+- 2023 부산대학교 캡스톤디자인 동상
+- 2023 구름톤 챌린지 참가
+- 2022 알고리즘 먼데이 챌린지 참가
+- 2022 부산대학교 프로그래밍경진대회 은상
+- 2022 부산 코딩경진대회 금상
+- Kakao Tech Campus (2023.04 ~ 2023.11)
+- Bachelor’s Degree in Computer Science Engineering, Pusan National University (2018.03 ~ 2024.08)
+
 
 <br>
 
