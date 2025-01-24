@@ -60,6 +60,14 @@ Hello, I'm Seonghyeon Kim.
 
 <br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeonghyeonKim&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SeonghyeonKim"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **SeonghyeonKim/SeonghyeonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
