@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seonghyeon_Kim&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=김성현_Seonghyeon_Kim&fontSize=40)
 
 Hello, I'm Seonghyeon Kim.
 
